@@ -5,7 +5,7 @@ from core.plugin_manager import PluginManager
 from core.utils import parser_wordlist
 import requests
 
-parser = argparse.ArgumentParser(description='Web Fuzzer - iNdk')
+parser = argparse.ArgumentParser(description='Web Fuzzer - isaacsarmento')
 parser.add_argument('-u', 
                     dest='url', 
                     help='Definir url para atacar',
